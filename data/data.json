@@ -1,0 +1,14 @@
+[
+     {
+          "batch": "R-52",
+          "round": "52",
+          "title": "esad-cs",
+          "quizzes": [
+              
+               {"module": "01", "no": 1, "date": "Jul.03.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"}
+               
+
+
+          ]
+     }
+]
