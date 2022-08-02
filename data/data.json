@@ -6,7 +6,7 @@
           "quizzes": [
               
                {"module": "01", "no": 1, "date": "Jul.27.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"},
-               {"module": "01", "no": 1, "date": "Aug.02.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL02"}
+               {"module": "01", "no": 2, "date": "Aug.02.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL02"}
 
           ]
      }
