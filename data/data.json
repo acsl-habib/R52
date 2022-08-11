@@ -9,7 +9,15 @@
                {"module": "01", "no": 2, "date": "Aug.02.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL02"},
                {"module": "01", "no": 3, "date": "Aug.03.2022", "coverage":"Management Studio" , "folder":"M1/SQL03"},
                {"module": "01", "no": 4, "date": "Aug.06.2022", "coverage":"Table JOIN" , "folder":"M1/SQL04"},
-               {"module": "01", "no": 5, "date": "Aug.08.2022", "coverage":"Upto JOIN" , "folder":"M1/SQL05"}
+               {"module": "01", "no": 5, "date": "Aug.08.2022", "coverage":"Upto JOIN" , "folder":"M1/SQL05"},
+               {"module": "01", "no": 6, "date": "Aug.11.2022", "coverage":"Data from single table" , "folder":"M1/SQL06"},
+               {"module": "01", "no": 7, "date": "Aug.11.2022", "coverage":"Sub-query" , "folder":"M1/SQL07"},
+               {"module": "01", "no": 8, "date": "Aug.11.2022", "coverage":"Sub-query" , "folder":"M1/SQL08"},
+               {"module": "01", "no": 9, "date": "Aug.11.2022", "coverage":"Insert/update/delete" , "folder":"M1/SQL09"},
+               {"module": "01", "no": 9, "date": "Aug.11.2022", "coverage":"Data types" , "folder":"M1/SQL10"},
+               {"module": "01", "no": 10, "date": "Aug.11.2022", "coverage":"Built-in functions" , "folder":"M1/SQL11"},
+               {"module": "01", "no": 10, "date": "Aug.11.2022", "coverage":"Data types" , "folder":"M1/SQL10"},
+               {"module": "01", "no": 11, "date": "Aug.11.2022", "coverage":"Built-in functions" , "folder":"M1/SQL11"}
 
           ]
      }
