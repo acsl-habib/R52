@@ -21,10 +21,10 @@
                {"module": "01", "no": 12, "date": "Aug.13.2022", "coverage":"Mock" , "folder":"https://forms.gle/WahLyGDdyDJ49yui6"},
                {"module": "01", "no": 13, "date": "Aug.24.2022", "coverage":"DDL, DML" , "folder":"M1/SQL13"},
                {"module": "01", "no": 14, "date": "Aug.24.2022", "coverage":"Scripts" , "folder":"M1/SQL14"},
-               {"module": "01", "no": 15, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BgCCnLLyq4"}
-               
-               
-
+               {"module": "01", "no": 15, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BgCCnLLyq4"},
+               {"module": "01", "no": 16, "date": "Aug.25.2022", "coverage":"Design database" , "folder":"https://forms.office.com/r/kgchABYbQw"},
+               {"module": "01", "no": 17, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/AM2YUBxa8L"},
+               {"module": "01", "no": 18, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/h7YM3yPFtD"}
           ]
      }
 ]
