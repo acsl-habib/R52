@@ -4,39 +4,190 @@
           "round": "52",
           "title": "esad-cs",
           "quizzes": [
-              
-               {"module": "01", "no": 1, "date": "Jul.27.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"},
-               {"module": "01", "no": 2, "date": "Aug.02.2022", "coverage":"Databases and SQL" , "folder":"M1/SQL02"},
-               {"module": "01", "no": 3, "date": "Aug.03.2022", "coverage":"Management Studio" , "folder":"M1/SQL03"},
-               {"module": "01", "no": 4, "date": "Aug.06.2022", "coverage":"Table JOIN" , "folder":"M1/SQL04"},
-               {"module": "01", "no": 5, "date": "Aug.08.2022", "coverage":"Upto JOIN" , "folder":"M1/SQL05"},
-               {"module": "01", "no": 6, "date": "Aug.11.2022", "coverage":"Data from single table" , "folder":"M1/SQL06"},
-               {"module": "01", "no": 7, "date": "Aug.11.2022", "coverage":"Sub-query" , "folder":"M1/SQL07"},
-               {"module": "01", "no": 8, "date": "Aug.11.2022", "coverage":"Sub-query" , "folder":"M1/SQL08"},
-               {"module": "01", "no": 9, "date": "Aug.11.2022", "coverage":"Insert/update/delete" , "folder":"M1/SQL09"},
-               {"module": "01", "no": 9, "date": "Aug.11.2022", "coverage":"Data types" , "folder":"M1/SQL10"},
-               {"module": "01", "no": 10, "date": "Aug.11.2022", "coverage":"Built-in functions" , "folder":"M1/SQL11"},
-               {"module": "01", "no": 10, "date": "Aug.11.2022", "coverage":"Data types" , "folder":"M1/SQL10"},
-               {"module": "01", "no": 11, "date": "Aug.11.2022", "coverage":"Built-in functions" , "folder":"M1/SQL11"},
-               {"module": "01", "no": 12, "date": "Aug.13.2022", "coverage":"Mock" , "folder":"https://forms.gle/WahLyGDdyDJ49yui6"},
-               {"module": "01", "no": 13, "date": "Aug.24.2022", "coverage":"DDL, DML" , "folder":"M1/SQL13"},
-               {"module": "01", "no": 14, "date": "Aug.24.2022", "coverage":"Scripts" , "folder":"M1/SQL14"},
-               {"module": "01", "no": 15, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BgCCnLLyq4"},
-               {"module": "01", "no": 16, "date": "Aug.25.2022", "coverage":"Design database" , "folder":"https://forms.office.com/r/kgchABYbQw"},
-
-               {"module": "01", "no": 17, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/AM2YUBxa8L"},
-               {"module": "01", "no": 18, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/h7YM3yPFtD"},
-               {"module": "02", "no": 1, "date": "Sep.03.2022", "coverage":"Variables, Operators" , "folder":"M2/CS01"}
-
-               {"module":"01", "no":"17","date":"Aug.27.2022","coverage":"mock","folder":"https://forms.gle/gKZgdLZcyLmKFqpt5"},
-               {"module":"01", "no":"18","date":"Aug.27.202", "coverage": "Mock", "folder": "https://forms.office.com/r/AM2YUBxa8L"},
-{"module":"01", "no":"19","date":"Aug.27.202", "coverage": "Mock", "folder": "https://forms.office.com/r/TSV3RvQCYr"},
-{"module":"01", "no":"20","date":"Aug.27.202", "coverage": "Mock", "folder": "https://forms.gle/GosDT6j9JZ9E2BZt8"},
-{"module":"01", "no":"21","date":"Aug.27.202", "coverage": "Mock", "folder": "https://forms.gle/kzjNhLh7DzSh7V6A6"},
-{"module":"01", "no":"22","date":"Aug.27.202", "coverage": "Mock", "folder": "https://forms.office.com/r/AM2YUBxa8L"}
+               {
+                    "module": "01",
+                    "no": 1,
+                    "date": "Jul.27.2022",
+                    "coverage": "Databases and SQL",
+                    "folder": "M1/SQL01"
+               },
+               {
+                    "module": "01",
+                    "no": 2,
+                    "date": "Aug.02.2022",
+                    "coverage": "Databases and SQL",
+                    "folder": "M1/SQL02"
+               },
+               {
+                    "module": "01",
+                    "no": 3,
+                    "date": "Aug.03.2022",
+                    "coverage": "Management Studio",
+                    "folder": "M1/SQL03"
+               },
+               {
+                    "module": "01",
+                    "no": 4,
+                    "date": "Aug.06.2022",
+                    "coverage": "Table JOIN",
+                    "folder": "M1/SQL04"
+               },
+               {
+                    "module": "01",
+                    "no": 5,
+                    "date": "Aug.08.2022",
+                    "coverage": "Upto JOIN",
+                    "folder": "M1/SQL05"
+               },
+               {
+                    "module": "01",
+                    "no": 6,
+                    "date": "Aug.11.2022",
+                    "coverage": "Data from single table",
+                    "folder": "M1/SQL06"
+               },
+               {
+                    "module": "01",
+                    "no": 7,
+                    "date": "Aug.11.2022",
+                    "coverage": "Sub-query",
+                    "folder": "M1/SQL07"
+               },
+               {
+                    "module": "01",
+                    "no": 8,
+                    "date": "Aug.11.2022",
+                    "coverage": "Sub-query",
+                    "folder": "M1/SQL08"
+               },
+               {
+                    "module": "01",
+                    "no": 9,
+                    "date": "Aug.11.2022",
+                    "coverage": "Insert/update/delete",
+                    "folder": "M1/SQL09"
+               },
+               {
+                    "module": "01",
+                    "no": 9,
+                    "date": "Aug.11.2022",
+                    "coverage": "Data types",
+                    "folder": "M1/SQL10"
+               },
+               {
+                    "module": "01",
+                    "no": 10,
+                    "date": "Aug.11.2022",
+                    "coverage": "Built-in functions",
+                    "folder": "M1/SQL11"
+               },
+               {
+                    "module": "01",
+                    "no": 10,
+                    "date": "Aug.11.2022",
+                    "coverage": "Data types",
+                    "folder": "M1/SQL10"
+               },
+               {
+                    "module": "01",
+                    "no": 11,
+                    "date": "Aug.11.2022",
+                    "coverage": "Built-in functions",
+                    "folder": "M1/SQL11"
+               },
+               {
+                    "module": "01",
+                    "no": 12,
+                    "date": "Aug.13.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/WahLyGDdyDJ49yui6"
+               },
+               {
+                    "module": "01",
+                    "no": 13,
+                    "date": "Aug.24.2022",
+                    "coverage": "DDL, DML",
+                    "folder": "M1/SQL13"
+               },
+               {
+                    "module": "01",
+                    "no": 14,
+                    "date": "Aug.24.2022",
+                    "coverage": "Scripts",
+                    "folder": "M1/SQL14"
+               },
+               {
+                    "module": "01",
+                    "no": 15,
+                    "date": "Aug.25.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/BgCCnLLyq4"
+               },
+               {
+                    "module": "01",
+                    "no": 16,
+                    "date": "Aug.25.2022",
+                    "coverage": "Design database",
+                    "folder": "https://forms.office.com/r/kgchABYbQw"
+               },
+               {
+                    "module": "01",
+                    "no": 17,
+                    "date": "Aug.25.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "01",
+                    "no": 18,
+                    "date": "Aug.25.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/h7YM3yPFtD"
+               },
                
-          
-
+              
+               {
+                    "module": "01",
+                    "no": "18",
+                    "date": "Aug.27.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "01",
+                    "no": "19",
+                    "date": "Aug.27.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/TSV3RvQCYr"
+               },
+               {
+                    "module": "01",
+                    "no": "20",
+                    "date": "Aug.27.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/GosDT6j9JZ9E2BZt8"
+               },
+               {
+                    "module": "01",
+                    "no": "21",
+                    "date": "Aug.27.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/kzjNhLh7DzSh7V6A6"
+               },
+               {
+                    "module": "01",
+                    "no": "22",
+                    "date": "Aug.27.2022",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "02",
+                    "no": "1",
+                    "date": "Sep.03.2022",
+                    "coverage": "Variables, Operators",
+                    "folder": "M2/CS01"
+               }
           ]
      }
 ]
