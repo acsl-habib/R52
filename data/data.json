@@ -24,7 +24,8 @@
                {"module": "01", "no": 15, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BgCCnLLyq4"},
                {"module": "01", "no": 16, "date": "Aug.25.2022", "coverage":"Design database" , "folder":"https://forms.office.com/r/kgchABYbQw"},
                {"module": "01", "no": 17, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/AM2YUBxa8L"},
-               {"module": "01", "no": 18, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/h7YM3yPFtD"}
+               {"module": "01", "no": 18, "date": "Aug.25.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/h7YM3yPFtD"},
+               {"module": "02", "no": 1, "date": "Sep.03.2022", "coverage":"Variables, Operators" , "folder":"M2/CS01"}
           ]
      }
 ]
