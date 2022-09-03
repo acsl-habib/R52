@@ -144,8 +144,13 @@
                     "coverage": "Mock",
                     "folder": "https://forms.office.com/r/h7YM3yPFtD"
                },
-               
-              
+               {
+                    "module": "01",
+                    "no": "17",
+                    "date": "Aug.27.2022",
+                    "coverage": "mock",
+                    "folder": "https://forms.gle/gKZgdLZcyLmKFqpt5"
+               },
                {
                     "module": "01",
                     "no": "18",
