@@ -192,6 +192,13 @@
                     "date": "Sep.03.2022",
                     "coverage": "Variables, Operators",
                     "folder": "M2/CS01"
+               },
+               {
+                    "module": "02",
+                    "no": "2",
+                    "date": "Sep.04.2022",
+                    "coverage": "Methods",
+                    "folder": "M2/CS02"
                }
           ]
      }
