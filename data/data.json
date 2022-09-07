@@ -201,7 +201,8 @@
                     "folder": "M2/CS02"
                },
                {"module": "02", "no": 3, "date": "Sep.05.2022", "coverage":"Decision statemets" , "folder":"M2/CS03"},
-               {"module": "02", "no": 4, "date": "Sep.05.2022", "coverage":"Compound statemets" , "folder":"M2/CS04"}
+               {"module": "02", "no": 4, "date": "Sep.05.2022", "coverage":"Compound statemets" , "folder":"M2/CS04"},
+               {"module": "02", "no": 5, "date": "Sep.07.2022", "coverage":"Exceptions" , "folder":"M2/CS05"}
           ]
      }
 ]
