@@ -207,7 +207,10 @@
                {"module": "02", "no": 7, "date": "Sep.10.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/hYWQ1q4jRP"},
                {"module": "02", "no": 8, "date": "Sep.18.2022", "coverage":"Classes" , "folder":"M2/CS06"},
                {"module": "02", "no": 9, "date": "Sep.19.2022", "coverage":"Value & Reference" , "folder":"M2/CS07"},
-               {"module": "02", "no": 10, "date": "Sep.19.2022", "coverage":"Stuct & Enum" , "folder":"M2/CS08"}
+               {"module": "02", "no": 10, "date": "Sep.19.2022", "coverage":"Stuct & Enum" , "folder":"M2/CS08"},
+               {"module": "02", "no": 11, "date": "Sep.21.2022", "coverage":"Arrays" , "folder":"M2/CS09"},
+               {"module": "02", "no": 12, "date": "Sep.21.2022", "coverage":"Params Array" , "folder":"M2/CS10"},
+               {"module": "02", "no": 13, "date": "Sep.21.2022", "coverage":"Inheritence" , "folder":"M2/CS11"}
                
           ]
      }
