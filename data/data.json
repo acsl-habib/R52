@@ -210,7 +210,9 @@
                {"module": "02", "no": 10, "date": "Sep.19.2022", "coverage":"Stuct & Enum" , "folder":"M2/CS08"},
                {"module": "02", "no": 11, "date": "Sep.21.2022", "coverage":"Arrays" , "folder":"M2/CS09"},
                {"module": "02", "no": 12, "date": "Sep.21.2022", "coverage":"Params Array" , "folder":"M2/CS10"},
-               {"module": "02", "no": 13, "date": "Sep.21.2022", "coverage":"Inheritence" , "folder":"M2/CS11"}
+               {"module": "02", "no": 13, "date": "Sep.21.2022", "coverage":"Inheritence" , "folder":"M2/CS11"},
+               {"module": "02", "no": 14, "date": "Sep.22.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/KWEvSs5s5j"},
+               {"module": "02", "no": 15, "date": "Sep.22.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/Ujkc2uG505"}
                
           ]
      }
