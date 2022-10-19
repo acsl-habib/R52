@@ -220,8 +220,10 @@
                {"module": "02", "no": 20, "date": "Oct.06.2022", "coverage":"Collections" , "folder":"M2/CS16"},
                {"module": "02", "no": 21, "date": "Oct.06.2022", "coverage":"Mock" , "folder":"M2/CSMock03"},
                {"module": "02", "no": 22, "date": "Oct.06.2022", "coverage":"Mock" , "folder":"M2/CSMock04"},
-               {"module": "02", "no": 23, "date": "Oct.09.2022", "coverage":"Mock" , "folder":"https://forms.gle/gdnCexrqhaCtUVFs9"}
-               
+               {"module": "02", "no": 23, "date": "Oct.09.2022", "coverage":"Mock" , "folder":"https://forms.gle/gdnCexrqhaCtUVFs9"},
+               {"module": "03", "no": 1, "date": "Oct.19.2022", "coverage":"Activity diagram" , "folder":"M3/OOSAD01"},
+               {"module": "03", "no": 2, "date": "Oct.19.2022", "coverage":"Communication diagram" , "folder":"M3/OOSAD02"},
+               {"module": "03", "no": 3, "date": "Oct.19.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD03"}
                
                
           ]
