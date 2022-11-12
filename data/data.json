@@ -227,7 +227,12 @@
                {"module": "03", "no": 4, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD06"},
                {"module": "03", "no": 5, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD07"},
                {"module": "03", "no": 6, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD08"},
-               {"module": "03", "no": 7, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD09"}
+               {"module": "03", "no": 7, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD09"},
+               {"module": "04", "no": 1, "date": "Nov.11.2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS01"},
+               {"module": "04", "no": 2, "date": "Nov.11.2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS02"},
+               {"module": "04", "no": 3, "date": "Nov.12.2022", "coverage":"OOSAD & HTML5" , "folder":"M4/OOSAD_HTML_Mock_01"},
+               {"module": "04", "no": 4, "date": "Nov.12.2022", "coverage":"JavaScript" , "folder":"M4/HTML_CSS_JS03"},
+               {"module": "04", "no": 5, "date": "Nov.12.2022", "coverage":"CSS" , "folder":"M4/HTML_CSS_JS04"}
                
                
           ]
