@@ -244,9 +244,16 @@
                {"module": "04", "no": 14, "date": "Nov.29.2022", "coverage":"Async Operation" , "folder":"M4/HTML_CSS_JS09"},
                {"module": "04", "no": 15, "date": "Nov.29.2022", "coverage":"WebSocket" , "folder":"M4/HTML_CSS_JS10"},
                {"module": "04", "no": 16, "date": "Nov.29.2022", "coverage":"Multimedia" , "folder":"M4/HTML_CSS_JS11"},
-               {"module": "04", "no": 17, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/1ZAU1Qa2Xv"}
-               
-               
+               {"module": "04", "no": 17, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/1ZAU1Qa2Xv"},
+               {"module": "07", "no": 1, "date": "Feb 07 2023", "coverage":"MVC Controllers" , "folder":"M7/MVC01"},
+               {"module": "07", "no": 2, "date": "Feb 07 2023", "coverage":"MVC views" , "folder":"M7/MVC02"},
+               {"module": "07", "no": 3, "date": "Feb 07 2023", "coverage":"Model-binding " , "folder":"M7/MVC03"},
+               {"module": "07", "no": 4, "date": "Feb 07 2023", "coverage":"Mock" , "folder":"https://forms.office.com/r/UBjSDJQxZ6"},
+               {"module": "07", "no": 5, "date": "Feb 07 2023", "coverage":"Input forms" , "folder":"M7/MVC05"},
+               {"module": "07", "no": 6, "date": "Feb 07 2023", "coverage":"Application aspects & security" , "folder":"M7/MVC06"},
+               {"module": "07", "no": 7, "date": "Feb 07 2023", "coverage":"Design & customize controller" , "folder":"M7/MVC07"},
+               {"module": "07", "no": 8, "date": "Feb 07 2023", "coverage":"Web api basics" , "folder":"M7/MVC08"},
+               {"module": "07", "no": 9, "date": "Feb 07 2023", "coverage":"Mock" , "folder":" https://forms.office.com/r/q8esPVxS88"}
           ]
      }
 ]
